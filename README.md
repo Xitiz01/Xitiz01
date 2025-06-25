@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hello, I'm Kshitiz Khanal
 
-<!--
-**Xitiz01/Xitiz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **WordPress Developer | Elementor Expert | Frontend Enthusiast**  
+📍 Based in Nepal | 💼 Available for freelance & remote roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+I'm a passionate WordPress developer with a strong focus on building custom themes, Elementor widgets, and user-focused web interfaces. My approach combines clean code, responsive design, and performance optimization. I love working on unique web experiences and enjoy turning complex problems into simple, beautiful, and intuitive designs.
+
+---
+
+## 🛠 Tech Stack
+
+- **CMS:** WordPress, Elementor (custom widgets & templates)
+- **Languages:** PHP, JavaScript, HTML5, CSS3, Dart
+- **Frontend Libraries:** React.js, Tailwind CSS
+- **Tools:** Git, GitHub, Figma, Simply Static
+- **Hosting & Deployment:** Netlify, cPanel, Local WP
+
+---
+
+## 💼 Work Highlights
+
+### 🔹 Portfolio Website (Live)
+- **Link:** [https://xitizkhanal.netlify.app](https://xitizkhanal.netlify.app)
+- Built using a custom WordPress theme & deployed as a static site with Simply Static
+- Fully responsive design, optimized for speed and SEO
+
+### 🔹 Kasturi Holidays (Custom Travel Website)
+- Developed custom post types and Elementor widgets for travel packages
+- Included grid/slider layouts, styled popups, and repeater-based dynamic content
+
+### 🔹 Elementor Custom Widgets Plugin
+- Built modular Elementor widgets with full styling & layout controls
+- Supports popups, repeater fields, and responsive design
+
+### 🔹 Crime Information Portal
+- PHP-based user interface for posting & viewing crime data
+- Backend includes database queries, user authentication
+
+---
+
+## 📂 Featured GitHub Repositories
+
+- [🔗 Kasturi Packages Widget](https://github.com/Xitiz01/kasturi_packages_widget)
+- [🔗 Portfolio Theme Code](https://github.com/Xitiz01/portfolio-wp-theme)
+- [🔗 Crime Portal PHP Project](https://github.com/Xitiz01/crime-portal)
+
+> Browse my repositories for Elementor widgets, WordPress themes, and student projects.
+
+---
+
+## 📚 Education
+
+**Bachelor of Science in Computer Science and IT (BSc CSIT)**  
+Tribhuvan University — Ongoing
+
+---
+
+## 📫 Contact Me
+
+- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/kshitiz-khanal-5809371a0](https://linkedin.com/in/kshitiz-khanal-5809371a0)
+- **Twitter/X:** [@khanal_xitiz](https://twitter.com/khanal_xitiz)
+
+---
+
+## 📈 GitHub Stats
+
+![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xitiz01&show_icons=true&theme=radical)
+
+---
