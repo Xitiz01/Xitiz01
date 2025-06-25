@@ -61,7 +61,7 @@ Tribhuvan University — Ongoing
 
 ## 📫 Contact Me
 
-- **Email:** your.email@example.com
+- **Email:** kshitizkhanal0138@gmail.com | kkhanal01@gmail.com 
 - **LinkedIn:** [linkedin.com/in/kshitiz-khanal-5809371a0](https://linkedin.com/in/kshitiz-khanal-5809371a0)
 - **Twitter/X:** [@khanal_xitiz](https://twitter.com/khanal_xitiz)
 
