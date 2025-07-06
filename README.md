@@ -40,17 +40,6 @@ I'm a passionate WordPress developer with a strong focus on building custom them
 - PHP-based user interface for posting & viewing crime data
 - Backend includes database queries, user authentication
 
----
-
-## 📂 Featured GitHub Repositories
-
-- [🔗 Kasturi Packages Widget](https://github.com/Xitiz01/kasturi_packages_widget)
-- [🔗 Portfolio Theme Code](https://github.com/Xitiz01/portfolio-wp-theme)
-- [🔗 Crime Portal PHP Project](https://github.com/Xitiz01/crime-portal)
-
-> Browse my repositories for Elementor widgets, WordPress themes, and student projects.
-
----
 
 ## 📚 Education
 
